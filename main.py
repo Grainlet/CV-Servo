@@ -1,6 +1,6 @@
 
 --------------------------------------------------------
-Hindusthan International Expo Project 1 2024-2025
+Hindusthan International Project 3 2024-2025
 Last Commit Note: Change COM Channel & D Pin
 --------------------------------------------------------
 
