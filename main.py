@@ -1,6 +1,6 @@
 
 --------------------------------------------------------
-Hindusthan International Annual Expo Project 2024-2025
+Hindusthan International Expo Project 1 2024-2025
 --------------------------------------------------------
 #dependancies
 #opencv-python 
