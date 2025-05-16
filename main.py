@@ -6,9 +6,9 @@ Last Commit Note: Change COM Channel & D Pin
 
 --------------------------------------------------------
 Dependancies:
-#opencv-python 
-#mediapipe
-#pyfirmata
+opencv-python 
+mediapipe
+pyfirmata
 -------------------------------------------------------
 import cv2
 import mediapipe as mp
