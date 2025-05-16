@@ -1,12 +1,15 @@
 
 --------------------------------------------------------
 Hindusthan International Expo Project 1 2024-2025
+Last Commit Note: Change COM Channel & D Pin
 --------------------------------------------------------
-#dependancies
+
+--------------------------------------------------------
+Dependancies:
 #opencv-python 
 #mediapipe
 #pyfirmata
-
+-------------------------------------------------------
 import cv2
 import mediapipe as mp
 from pyfirmata import Arduino
